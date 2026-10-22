@@ -4,7 +4,8 @@
     "target": {
       "namespace": "android_app",
       "package_name": "jp.summitslead.sanza",
-      "sha256_cert_fingerprints": ["ここを置き換える"]
+      "sha256_cert_fingerprints":
+        ["68:D3:A4:14:7D:29:D4:03:CC:C1:E9:49:3C:FE:06:22:7A:88:0A:75:C7:99:52:88:06:63:48:25:94:71:E1:EA"]
     }
   }
 ]
